@@ -23,7 +23,7 @@ run_info: "null",
 from_date: "2015-11-07 04:00:03",
 thru_date: "null",
 active: "1",
-sync_status_name: "Failed",
+sync_status_name: "Failure: Could not complete successfully",
 sync_run_duration_hms: "00:18:26",
 sync_table_runs: [
 {
@@ -45,7 +45,7 @@ sync_table_name: "terms",
 start_time: "2015-11-07 04:04:13",
 end_time: "2015-11-07 04:04:13",
 sync_status_id: "3",
-sync_status_name: "Failed",
+sync_status_name: "Failure: Could not complete successfully",
 total_change_count: "0",
 total_completed_count: "0",
 sync_table_run_duration_hms: "00:00:00"
